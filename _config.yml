@@ -2,12 +2,13 @@ name: organalytix
 favicon: null
 layout_spectrum: 0.08146677073091269
 typography_spectrum: 0.8531719443853945
+title: Org Analytix
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-73759350-1
   facebook: null
   twitter: null
 opengraph:
