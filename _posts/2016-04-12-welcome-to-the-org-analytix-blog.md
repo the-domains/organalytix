@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-12T14:10:12.154Z'
-dateModified: '2016-04-12T14:09:25.532Z'
-title: 'Welcome to the Org Analytix blog!'
+description: 'Welcome to the Org Analytix blog!'
+datePublished: '2016-04-12T17:56:17.910Z'
+dateModified: '2016-04-12T17:56:05.786Z'
+title: ''
 author: []
+sourcePath: _posts/2016-04-12-welcome-to-the-org-analytix-blog.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-12-welcome-to-the-org-analytix-blog.md
-published: true
 url: welcome-to-the-org-analytix-blog/index.html
 _type: Article
 
@@ -26,7 +26,7 @@ Welcome to the Org Analytix blog!
 
 Before we get started, here is a quick introduction on Org Analytix:
 
-[Org Analytix][0] is a new Social Capital analysis SaaS platform that will allow managers and team leaders to run their teams more effectively by understanding the team dynamics driving performance and behavior.
+Org Analytix is a new Social Capital analysis SaaS platform that will allow managers and team leaders to run their teams more effectively by understanding the team dynamics driving performance and behavior.
 
 This analysis can be applied to a variety of situations and can help managers achieve different goals, such as:
 
@@ -50,5 +50,3 @@ Anytime there is a significant volatility in the work environment impacting the 
 Our tool is still in development stage with our MVP (Minimally Viable Product) up and running.  We are currently in a beta testing phase of the product development and welcome any pilot opportunities to perform this analysis for companies currently in need for new tools to understand how to make the team work most efficiently.
 
 Please contact us to learn more:  shwetha.pai@organalytix.com
-
-[0]: http://www.organalytix.com/
