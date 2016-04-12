@@ -1,0 +1,28 @@
+name: organalytix
+favicon: null
+layout_spectrum: 0.08146677073091269
+typography_spectrum: 0.8531719443853945
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5814587173517793
+  lightness: 0.80375593341887
+  saturation: 0.6183990391436964
+  rhythmicContrast: 0.8459020664449781
+purpose: []
