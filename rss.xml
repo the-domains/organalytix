@@ -4,8 +4,15 @@
         <description><![CDATA[Org Analytix]]></description>
         <link>https://thegrid.ai/organalytix/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 18:31:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 18:39:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/organalytix/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[It's Alive!]]></title>
+            <description><![CDATA[<article><h1>It's Alive!</h1><p>Org Analytix's MVP reporting for action! </p></article>]]></description>
+            <link>https://thegrid.ai/organalytix/its-alive/index.html</link>
+            <guid isPermaLink="false">572b85e6-3cc0-4498-9f5c-9b5b14e24552</guid>
+            <pubDate>Tue, 12 Apr 2016 18:38:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The hard truth about Mergers and Acquisitions]]></title>
             <description><![CDATA[<article><h1>The hard truth about Mergers and Acquisitions</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b5fd579d2fae9f0679cb45488d88cc5c07866e3.jpg"></article>]]></description>
