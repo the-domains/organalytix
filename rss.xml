@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[organalytix]]></title>
+        <description><![CDATA[organalytix]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Apr 2016 14:10:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to the Org Analytix blog!]]></title>
+            <description><![CDATA[<h1>Welcome to the Org Analytix blog!</h1>]]></description>
+            <link>undefinedwelcome-to-the-org-analytix-blog/index.html</link>
+            <guid isPermaLink="false">a62253ce-4d52-48fe-9368-3e1142cb2312</guid>
+            <pubDate>Tue, 12 Apr 2016 14:10:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
