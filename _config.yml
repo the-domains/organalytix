@@ -1,7 +1,7 @@
 name: organalytix
 favicon: null
-layout_spectrum: 0.08146677073091269
-typography_spectrum: 0.8531719443853945
+layout_spectrum: 1
+typography_spectrum: 0.24992
 title: Org Analytix
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#888580'
     - '#c40000'
     - '#47b3ea'
-  brandStrength: 0.75
+  brandStrength: 0.5
   lightness: 0.75
-  saturation: 0.5625
-  rhythmicContrast: 0.25
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
